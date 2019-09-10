@@ -8,3 +8,8 @@ Allow an option for the user to quit if they type in "Quit".
 Calculate the sum of those numbers, and calculate the average.
 Display the average to the user.
 </pre>
+
+The three classes are:
+- WithArray
+- WithDoWhileLoop
+- WithForLoop
